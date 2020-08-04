@@ -1,7 +1,10 @@
 Introduction {#intro}
 =====================
 
-Issue: Write Introduction section.
+Solid is a web decentralization project led by Tim Berners-Lee, the inventor of World Wide Web. It radically changes the working of web applications that is in existence,that results in true data ownership and improved 
+privacy by developing a platform for linked-data applications that are completely decentralized and fully under users' control rather than controlled by other entities.The ultimate goal is to allow users to have 
+full control of their own data, including access control and storage location.Tim Berners-Lee formed a company called Inrupt to help build a commercial ecosystem to start Solid.
+
 
 Issue: Explain the principle of orthogonality,
   by which this spec is split into multiple documents.
